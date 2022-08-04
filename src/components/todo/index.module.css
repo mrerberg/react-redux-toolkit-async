@@ -1,0 +1,14 @@
+.item {
+  font-family: monospace;
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: lightgray;
+}
+
+.loading {
+  opacity: 0.4;
+}
